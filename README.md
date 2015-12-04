@@ -14,7 +14,7 @@ $interface = "wlan0";
 For use: 
 ```
 chmod +x pwaneddler.php
-./pwaneddler.php
+./pwaneddler.php or php pwaneddler.php
 ```
 
 
