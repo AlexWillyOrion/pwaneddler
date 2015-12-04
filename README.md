@@ -5,5 +5,9 @@ For use:
 ```
 chmod +x pwaneddler.php
 ./pwaneddler.php
-
 ```
+
+Screenshot: 
+![Initial screen](https://raw.github.com/AlexWillyOrion/pwaneddler/screen/screen1.png)
+![Initial screen](https://raw.github.com/AlexWillyOrion/pwaneddler/screen/screen2.png)
+![Initial screen](https://raw.github.com/AlexWillyOrion/pwaneddler/screen/screen3.png)
