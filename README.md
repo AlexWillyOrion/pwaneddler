@@ -6,12 +6,17 @@ A script kiddie for perform MiTM attack and replace image in a host's browser or
 - Nmap
 - Php
  
+Replace wlan0 with your interface:
+```
+$interface = "wlan0";
+```
 
 For use: 
 ```
 chmod +x pwaneddler.php
 ./pwaneddler.php
 ```
+
 
 Screenshot: 
 
