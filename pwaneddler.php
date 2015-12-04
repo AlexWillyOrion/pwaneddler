@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-$interface = "en1";
+$interface = "wlan0";
 define("BANNER","
  ____                               _     _ _           
 |  _ \__      ____ _ _ __   ___  __| | __| | | ___ _ __ 
